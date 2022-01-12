@@ -21,5 +21,3 @@ Welcome to my page 😄
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyNi0319&theme=dark&show_icons=true&count_private=true&icon_color=#52BAFF)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyNi0319)
