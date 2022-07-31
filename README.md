@@ -4,7 +4,7 @@ Welcome to my page 😄
 ### A little about me 
 
 - 💻 I'm a computer science student
-- 🔭 I’m currently working on web-based projects
+- 🔭 I’m currently experiencing various areas of life (as I should be)
 - 🌱 I’m currently learning web development
 - 🥅 2022 Goals: enjoy life 😎
 - ⚡ Fun fact: I love to work out! 💪
