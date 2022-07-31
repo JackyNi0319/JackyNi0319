@@ -6,7 +6,7 @@ Welcome to my page 😄
 - 💻 I'm a computer science student
 - 🔭 I’m currently working on web-based projects
 - 🌱 I’m currently learning web development
-- 🥅 2022 Goals: summer internship, expand on front-end, and learn back-end
+- 🥅 2022 Goals: enjoy life 😎
 - ⚡ Fun fact: I love to work out! 💪
 
 ### Languages:
