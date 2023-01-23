@@ -6,7 +6,7 @@ Welcome to my page 😄
 - 💻 I'm a computer science student
 - 🔭 I’m currently experiencing various areas of life (as I should be)
 - 🌱 I’m currently learning web development
-- 🥅 2022 Goals: enjoy life 😎
+- 🥅 2023 Goals: enjoy life 😎
 - ⚡ Fun fact: I love to work out! 💪
 
 ### Languages:
