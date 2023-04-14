@@ -4,10 +4,10 @@ Welcome to my page 😄
 ### A little about me 
 
 - 💻 I'm a computer science student
-- 🔭 I’m currently experiencing various areas of life (as I should be)
+- 🔭 I’m currently exploring various areas of life (as I should be)
 - 🌱 I’m currently learning web development
 - 🥅 2023 Goals: enjoy life 😎
-- ⚡ Fun fact: I love to work out! 💪
+- ⚡ Fun fact: I like trying new things 💪
 
 ### Languages:
 
