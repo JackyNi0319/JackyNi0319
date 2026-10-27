@@ -1,14 +1,6 @@
 ### Hi there, I'm Jacky Ni 👋
 Welcome to my page 😄
 
-### A little about me 
-
-- 💻 I'm a computer science student
-- 🔭 I’m currently exploring various areas of life (as I should be)
-- 🌱 I’m currently learning web development
-- 🥅 2024 Goals: Do something new 😎
-- ⚡ Fun fact: I like trying new things 💪
-
 ### Languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
